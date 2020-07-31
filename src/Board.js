@@ -80,7 +80,8 @@ class Board extends Component {
   render() {
   return (
     <div>
-      <table className="Table">
+      <div class="logo"><b>Lig<span>h</span>ts <span>O</span>ut</b></div>
+      <table className="Board">
         {this.table()}
       </table>
     </div>
