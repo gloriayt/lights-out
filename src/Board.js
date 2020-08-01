@@ -81,9 +81,12 @@ class Board extends Component {
   return (
     <div>
       <div class="logo"><b>Lig<span>h</span>ts <span>O</span>ut</b></div>
-      <table className="Board">
-        {this.table()}
-      </table>
+      {this.state.hasWon === false 
+        ? <table className="Board">
+          {this.table()}
+        </table>
+        : <p><div class="logo"><b>Yo<span>u </span>W<span>i</span>n!</b></div></p>
+      }
     </div>
   )
   }
