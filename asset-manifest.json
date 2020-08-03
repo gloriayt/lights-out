@@ -1,13 +1,13 @@
 {
-  "main.css": "/lights-out/static/css/main.4db9afbe.chunk.css",
-  "main.js": "/lights-out/static/js/main.f50a7105.chunk.js",
-  "main.js.map": "/lights-out/static/js/main.f50a7105.chunk.js.map",
+  "main.css": "/lights-out/static/css/main.a32f4f0e.chunk.css",
+  "main.js": "/lights-out/static/js/main.d1939e9d.chunk.js",
+  "main.js.map": "/lights-out/static/js/main.d1939e9d.chunk.js.map",
   "static/js/1.45ea5340.chunk.js": "/lights-out/static/js/1.45ea5340.chunk.js",
   "static/js/1.45ea5340.chunk.js.map": "/lights-out/static/js/1.45ea5340.chunk.js.map",
   "runtime~main.js": "/lights-out/static/js/runtime~main.5cc5b55a.js",
   "runtime~main.js.map": "/lights-out/static/js/runtime~main.5cc5b55a.js.map",
-  "static/css/main.4db9afbe.chunk.css.map": "/lights-out/static/css/main.4db9afbe.chunk.css.map",
+  "static/css/main.a32f4f0e.chunk.css.map": "/lights-out/static/css/main.a32f4f0e.chunk.css.map",
   "index.html": "/lights-out/index.html",
-  "precache-manifest.0926b4d57250f0e3a69ec2821ab9d88a.js": "/lights-out/precache-manifest.0926b4d57250f0e3a69ec2821ab9d88a.js",
+  "precache-manifest.a9b9335e9916a1cfeb71e52790aceee7.js": "/lights-out/precache-manifest.a9b9335e9916a1cfeb71e52790aceee7.js",
   "service-worker.js": "/lights-out/service-worker.js"
 }
